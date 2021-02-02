@@ -31,8 +31,6 @@
 
 NPM wrapper for [vale](https://github.com/errata-ai/vale "Link to vale on GitHub").
 
-Downloads `vale` into a directory called *vendor* and makes it runnable.
-
 ## Install
 
 ```sh
@@ -41,10 +39,13 @@ npm install --save @ocular-d/vale-bin
 
 ## Usage
 
-### CLI
+```sh
+./node_modules/.bin/vale-bin -h
+vale - A command-line linter for prose.
 
-```shell
-vale-bin --help
+Usage:	vale [options] [input...]
+	vale myfile.md myfile1.md mydir1
+	vale --output=JSON [input...]
 ```
 
 ## Contributing
