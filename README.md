@@ -48,6 +48,10 @@ Usage:	vale [options] [input...]
 	vale --output=JSON [input...]
 ```
 
+```sh
+./node_modules/.bin/vale-bin docs
+```
+
 ## Contributing
 
 We are a community effort, and everybody is most welcome to participate!
