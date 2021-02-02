@@ -5,7 +5,7 @@
   "description": "Vale wrapper",
   "main": "index.js",
   "bin": {
-		"vale-bin": "cli.js"
+		"vale": "cli.js"
 	},
 	"engines": {
 		"node": ">=8"
