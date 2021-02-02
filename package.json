@@ -1,0 +1,47 @@
+{
+  "name": "@ocular-d/vale-bin",
+  "version": "1.0.0",
+  "valeVersion": "2.9.1",
+  "description": "Vale wrapper",
+  "main": "index.js",
+  "bin": {
+		"vale-bin": "cli.js"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+  "scripts": {
+		"postinstall": "node lib/install.js",
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js",
+		"cli.js",
+		"lib"
+	],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocular-d/vale-bin.git"
+  },
+  "keywords": [
+    "vale",
+    "writing",
+		"lint",
+		"ocular-d",
+		"ocld"
+  ],
+  "dependencies": {
+		"download": "^7.1.0"
+	},
+	"devDependencies": {
+		"ava": "^2.4.0",
+		"request": "^2.88.2",
+		"xo": "^0.24.0"
+	},
+  "author": "ocular-d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ocular-d/vale-bin/issues"
+  },
+  "homepage": "https://github.com/ocular-d/vale-bin#readme"
+}
