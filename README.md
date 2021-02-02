@@ -1,0 +1,2 @@
+# vale-bin
+Vale wrapper
