@@ -1,16 +1,16 @@
 {
-  "name": "@ocular-d/vale-bin",
-  "version": "1.0.0",
-  "valeVersion": "2.9.1",
-  "description": "Vale wrapper",
-  "main": "index.js",
-  "bin": {
-		"vale-bin": "cli.js"
+	"name": "@ocular-d/vale-bin",
+	"version": "1.0.1",
+	"valeVersion": "2.9.1",
+	"description": "Vale wrapper",
+	"main": "index.js",
+	"bin": {
+		"vale": "cli.js"
 	},
 	"engines": {
 		"node": ">=8"
 	},
-  "scripts": {
+	"scripts": {
 		"postinstall": "node lib/install.js",
 		"test": "xo && ava"
 	},
@@ -19,18 +19,19 @@
 		"cli.js",
 		"lib"
 	],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ocular-d/vale-bin.git"
-  },
-  "keywords": [
-    "vale",
-    "writing",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ocular-d/vale-bin.git"
+	},
+	"keywords": [
+		"vale",
+		"writing",
 		"lint",
 		"ocular-d",
 		"ocld"
-  ],
-  "dependencies": {
+	],
+	"dependencies": {
+		"chalk": "^4.1.0",
 		"download": "^7.1.0"
 	},
 	"devDependencies": {
@@ -38,10 +39,10 @@
 		"request": "^2.88.2",
 		"xo": "^0.24.0"
 	},
-  "author": "ocular-d",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ocular-d/vale-bin/issues"
-  },
-  "homepage": "https://github.com/ocular-d/vale-bin#readme"
+	"author": "ocular-d",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/ocular-d/vale-bin/issues"
+	},
+	"homepage": "https://github.com/ocular-d/vale-bin#readme"
 }
