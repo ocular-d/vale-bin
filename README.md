@@ -40,7 +40,7 @@ npm install --save @ocular-d/vale-bin
 ## Usage
 
 ```sh
-./node_modules/.bin/vale-bin -h
+./node_modules/.bin/vale -h
 vale - A command-line linter for prose.
 
 Usage:	vale [options] [input...]
@@ -49,7 +49,7 @@ Usage:	vale [options] [input...]
 ```
 
 ```sh
-./node_modules/.bin/vale-bin docs
+./node_modules/.bin/vale docs
 ```
 
 ## Contributing
