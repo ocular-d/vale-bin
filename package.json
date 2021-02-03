@@ -1,6 +1,6 @@
 {
   "name": "@ocular-d/vale-bin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "valeVersion": "2.9.1",
   "description": "Vale wrapper",
   "main": "index.js",
@@ -36,7 +36,8 @@
 	"devDependencies": {
 		"ava": "^2.4.0",
 		"request": "^2.88.2",
-		"xo": "^0.24.0"
+		"xo": "^0.24.0",
+		"chalk": "ˆ4.1.0"
 	},
   "author": "ocular-d",
   "license": "MIT",
