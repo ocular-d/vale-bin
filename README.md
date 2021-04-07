@@ -66,3 +66,4 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/ "Link to li
 
 - [David Offerman](https://github.com/davidofferman "Link to GitHub of David"), code is based on [hugo-bin](https://github.com/davidofferman/hugo-bin "Link to hugo-bin on GitHub")
 - [Onna](https://onna.com "Link to Onna")
+- [Anh Le](https://github.com/Haizzz "Link to Anh Le on GitHub")
