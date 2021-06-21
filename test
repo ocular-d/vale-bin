@@ -1,0 +1,4 @@
+rm -rf vendor
+node lib/install.js
+cd vendor
+./vale -v
