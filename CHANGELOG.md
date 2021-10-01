@@ -6,9 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.9] - 2021-10-01
+
+- Update vale to version 2.10.7
 ## [1.0.8] - 2021-08-23
 
-- Update vale to version 2.20.5
+- Update vale to version 2.10.5
 
 ## [1.0.7] - 2021-06-21
 
