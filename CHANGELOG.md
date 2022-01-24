@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.10.17] - 2022-01-24
+
+- Add support for arm64 macOS environment (@mrmckeb)
+
 ## [1.10.16] - 2022-01-14
 
 - Update vale to 2.14.0
