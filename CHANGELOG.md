@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.10.22] - 2022-03-18
+
+- Update vale to 2.15.3
+
 ## [1.10.21] - 2022-02-23
 
 - Update filename for Windows binary (@peol)
