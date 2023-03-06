@@ -1,7 +1,7 @@
 {
 	"name": "@ocular-d/vale-bin",
-	"version": "1.10.39",
-	"valeVersion": "2.23.3",
+	"version": "1.10.40",
+	"valeVersion": "2.24.0",
 	"description": "Vale wrapper",
 	"main": "index.js",
 	"bin": {
