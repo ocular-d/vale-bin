@@ -68,3 +68,4 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/ "Link to li
 - [Onna](https://onna.com "Link to Onna")
 - [Anh Le](https://github.com/Haizzz "Link to Anh Le on GitHub")
 - [Andrée Hansson](https://github.com/peol "Link to Andrée Hansson on GitHub")
+- [ Maia Teegarden ](https://github.com/padmaia "Link to Maia Teegarden on GitHub")
