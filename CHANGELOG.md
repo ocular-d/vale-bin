@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## 1.10.49 - 2023-05-23
+
+- Update vale to 2.27.0
+
+## [1.10.48] - 2023-05-22
+
+- Add Apple Silicon download link
+
 ## [1.10.47] - 2023-05-12
 
 - Update vale to 2.26.0
