@@ -1,45 +1,22 @@
-<!-- PROJECT LOGO -->
-
-<br />
-<p align="center">
-  <h1 align="center">vale-bin</h1>
-
-  <p align="center">
-    NPM wrapper for vale
-    <br />
-    <a href="https://github.com/ocular-d/vale-bin"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ocular-d/vale-bin/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ocular-d/vale-bin/issues">Request Feature</a>
-  </p>
-</p>
-
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [About the Project](#about)
-- [Install](#install)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Credits](#credits)
-
 ## About
 
-NPM wrapper for [vale](https://github.com/errata-ai/vale "Link to vale on GitHub").
+`vale-bin` an NPM wrapper for [Vale](https://github.com/errata-ai/vale "Link to Vale on GitHub").
+
+## Requirements
+
+Please check the [Vale configuration docs](https://vale.sh/docs/topics/config/ "Link to Vale config docs").
 
 ## Install
 
-```sh
+```shell
 npm install --save @ocular-d/vale-bin
 ```
 
 ## Usage
 
-```sh
+Check the version:
+
+```shell
 ./node_modules/.bin/vale -h
 vale - A command-line linter for prose.
 
@@ -48,19 +25,22 @@ Usage:	vale [options] [input...]
 	vale --output=JSON [input...]
 ```
 
-```sh
+Example of running `vale` against the `docs` directory:
+
+```shell
 ./node_modules/.bin/vale docs
 ```
 
 ## Contributing
 
-We are a community effort, and everybody is most welcome to participate!
+Feel free to contribute, your help is very welcome:
 
-Be it filing bugs, formulating enhancements, creating pull requests, or any other means of contribution, we encourage contributions from everyone.
+- Give a GitHub ⭐ if you like it.
+- Create an [issue](https://github.com/ocular-d/vale-bin/issues "Link to issue tracker on GitHub") to make a feature request, report a bug or share an idea.
 
 ## License
 
-Distributed under the [MIT](https://choosealicense.com/licenses/mit/ "Link to license") license.
+The content in this repository is licensed under the [MIT License](./LICENSE "Link to MIT license").
 
 ## Credits
 
