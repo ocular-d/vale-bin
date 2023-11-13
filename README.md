@@ -16,6 +16,10 @@
   </p>
 </p>
 
+> This project is deprecated.
+> `vale-bin` is not maintained anymore.
+>
+ 
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
